@@ -1,0 +1,98 @@
+@charset "utf-8";
+* {
+	margin- : 0px;
+	padding : 0px;
+	border: 0px ;
+	}
+	
+	
+	
+body {
+    background-color: rgba(173,249,243,1.00);
+    background-image: url(img/borde_hojas.png);
+    border-top-width: 80px;
+    background-repeat: repeat-x;
+}
+h1 {
+    color: rgba(32,112,8,1.00);
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    font-style: 700;
+    font-weight: 400;
+    font-size: 30X;
+    text-decoration: underline;
+    margin-top: 200px;
+    margin-left: 100px;
+    margin-bottom: 80px;
+    margin-right: 100px;
+    text-align: center;
+}
+h2 {
+    color: rgba(29,54,32,1.00);
+    text-decoration: underline;
+    border-bottom-color: rgba(114,3,5,1.00);
+    padding-left: 100px;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-weight: 900;
+    font-size: 25PX;
+    line-height: 20px;
+    font-variant: normal;
+    margin-left: 0px;
+    text-align: center;
+}
+img {
+
+    margin: auto;
+    background-image: url(img/fondo%20huellas%20azules%20ULTI.png);
+    background-repeat: repeat;
+    display: block;
+}
+
+
+p {
+    color: rgba(15,9,41,1.00);
+    font-size: 18PX;
+    margin-left: 100px;
+    font-weight: 100;
+    font-variant: normal;
+    font-style: normal;
+    line-height: 30PX;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    text-shadow: 0 0px;
+    text-align: justify;
+    margin-right: 100px;
+ 
+}
+li {
+    text-transform: capitalize;
+    text-align: left;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-style: italic;
+    margin-left: 100px;
+    list-style-position: outside;
+    font-weight: 10px;
+    font-size: 20px;
+    list-style-image: url(img/pin.png);
+}
+ 
+
+
+/*hr {
+	border: 4px inset rgba(192,46,48,1.00);*/
+/*}*/
+h3 a {
+    color: rgba(29,66,29,1.00);
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    text-align: justify;
+    text-transform: capitalize;
+    font-size: 25px;
+    margin-left: 50px;	
+}
+h4 a {
+	color: rgba(29,66,29,1.00);
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    text-align: justify;
+    text-transform: capitalize;
+    font-size: 18px;
+    margin-left: 50px;	
+}
+
